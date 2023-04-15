@@ -1,3 +1,0 @@
-python file created
-testing for direct local repo
-edited for git reset
